@@ -50,3 +50,6 @@ Billing questions dominate the reasons for calls, indicating a need for better b
 Most calls are handled within SLA, indicating good performance. However, there is room for improvement for calls below and above SLA.
 
 This project provides valuable insights into the call center's performance, helping identify areas for optimization to improve customer satisfaction and operational efficiency.
+![Capture](https://github.com/user-attachments/assets/4fba8da8-c028-4d5b-9958-b35a9ad81fa4)
+
+
